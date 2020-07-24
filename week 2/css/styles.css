@@ -1,9 +1,24 @@
 body {
 	font-size: 16px
 	color: #fff;
-	background-color: #fbaed2;
+	background-color: #fff;
     font-family: 'Oxygen', sans-serif;
 }
 .h1 {font-family: 'Tangerine', serif;
 	font-size: 48px;
 	text-shadow: 4px 4px 4px #aaa;}
+
+
+/** HEADER **/
+#header-nav {
+	background-color: #fbaed2;
+	border-radius:  0;
+	border: 0;
+}
+
+#logo-img {
+	background: url('../img/logo-img.png') no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+}
